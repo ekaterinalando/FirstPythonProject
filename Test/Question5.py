@@ -7,7 +7,13 @@ tuple2 = (8, 2, 5)
 
 x = list(tuple1)
 y = list(tuple2)
-new_list = x.insert(2, y)
+x.insert(2, y)
+
+new_list = list(x)
+tuple3 = tuple(new_list)
+print(tuple3)
+
+
 
 
 
