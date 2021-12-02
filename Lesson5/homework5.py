@@ -1,4 +1,4 @@
-'DDMMYYCZZZQ'
+
 id_code = '131052-308T'
 while True:
     try:
@@ -42,8 +42,6 @@ while condition:
             print ('Your ID code is invalid')
 
 
-
-
         print(f'ID: {user_input}')
         print(f'Gender: {gender_id}')
         print(f'Date of birth: {bd_num}.{bm_num}.{by}')
@@ -52,8 +50,10 @@ while condition:
     elif user_choice == '2':
         id_code = user_input
 
-        chk1 = [0123456789ABCDEFHJKLMNPRSTUVWXY]
-        chk2 = [3, 4, 5, 6, 7, 8, 9, 1, 2, 3]
+        chk = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'ABCDEFHJKLMNPRSTUVWXY']
+        chk[10] = range[11:]
+
+
 
         cnt = 0
         result = 0
