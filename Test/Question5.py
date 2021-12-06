@@ -5,13 +5,13 @@
 tuple1 = (1, 2, 3, 5, 8)
 tuple2 = (8, 2, 5)
 
-x = list(tuple1)
-y = list(tuple2)
-x.insert(2, y)
+tuple1_list = list(tuple1)
 
-new_list = list(x)
-tuple3 = tuple(new_list)
-print(tuple3)
+# (1, 2, 8, 2, 5, 3, 5, 8)
+tuple1_list[2:2] = tuple2
+tuple1 = tuple(tuple1_list)
+print(tuple1)
+
 
 
 
