@@ -1,0 +1,17 @@
+2021-12-17 08:41:13.497137
+Overall rank: 29, Country or region: Qatar, Score: 6.374, GDP per capita: 1.684, Social support: 1.313, Healthy life expectancy: 0.871, Freedom to make life choices: 0.555, Generosity: 0.220, Perceptions of corruption: 0.167, 
+Overall rank: 14, Country or region: Luxembourg, Score: 7.090, GDP per capita: 1.609, Social support: 1.479, Healthy life expectancy: 1.012, Freedom to make life choices: 0.526, Generosity: 0.194, Perceptions of corruption: 0.316, 
+Overall rank: 34, Country or region: Singapore, Score: 6.262, GDP per capita: 1.572, Social support: 1.463, Healthy life expectancy: 1.141, Freedom to make life choices: 0.556, Generosity: 0.271, Perceptions of corruption: 0.453, 
+Overall rank: 21, Country or region: United Arab Emirates, Score: 6.825, GDP per capita: 1.503, Social support: 1.310, Healthy life expectancy: 0.825, Freedom to make life choices: 0.598, Generosity: 0.262, Perceptions of corruption: 0.182, 
+Overall rank: 51, Country or region: Kuwait, Score: 6.021, GDP per capita: 1.500, Social support: 1.319, Healthy life expectancy: 0.808, Freedom to make life choices: 0.493, Generosity: 0.142, Perceptions of corruption: 0.097, 
+Overall rank: 16, Country or region: Ireland, Score: 7.021, GDP per capita: 1.499, Social support: 1.553, Healthy life expectancy: 0.999, Freedom to make life choices: 0.516, Generosity: 0.298, Perceptions of corruption: 0.310, 
+Overall rank: 3, Country or region: Norway, Score: 7.554, GDP per capita: 1.488, Social support: 1.582, Healthy life expectancy: 1.028, Freedom to make life choices: 0.603, Generosity: 0.271, Perceptions of corruption: 0.341, 
+Overall rank: 6, Country or region: Switzerland, Score: 7.480, GDP per capita: 1.452, Social support: 1.526, Healthy life expectancy: 1.052, Freedom to make life choices: 0.572, Generosity: 0.263, Perceptions of corruption: 0.343, 
+Overall rank: 76, Country or region: Hong Kong, Score: 5.430, GDP per capita: 1.438, Social support: 1.277, Healthy life expectancy: 1.122, Freedom to make life choices: 0.440, Generosity: 0.258, Perceptions of corruption: 0.287, 
+Overall rank: 19, Country or region: United States, Score: 6.892, GDP per capita: 1.433, Social support: 1.457, Healthy life expectancy: 0.874, Freedom to make life choices: 0.454, Generosity: 0.280, Perceptions of corruption: 0.128, 
+2021-12-17 08:46:00.543109
+Overall rank: 29, Country or region: Qatar, Score: 6.374, GDP per capita: 1.684, Social support: 1.313, Healthy life expectancy: 0.871, Freedom to make life choices: 0.555, Generosity: 0.220, Perceptions of corruption: 0.167, 
+Overall rank: 14, Country or region: Luxembourg, Score: 7.090, GDP per capita: 1.609, Social support: 1.479, Healthy life expectancy: 1.012, Freedom to make life choices: 0.526, Generosity: 0.194, Perceptions of corruption: 0.316, 
+Overall rank: 34, Country or region: Singapore, Score: 6.262, GDP per capita: 1.572, Social support: 1.463, Healthy life expectancy: 1.141, Freedom to make life choices: 0.556, Generosity: 0.271, Perceptions of corruption: 0.453, 
+Overall rank: 21, Country or region: United Arab Emirates, Score: 6.825, GDP per capita: 1.503, Social support: 1.310, Healthy life expectancy: 0.825, Freedom to make life choices: 0.598, Generosity: 0.262, Perceptions of corruption: 0.182, 
+Overall rank: 51, Country or region: Kuwait, Score: 6.021, GDP per capita: 1.500, Social support: 1.319, Healthy life expectancy: 0.808, Freedom to make life choices: 0.493, Generosity: 0.142, Perceptions of corruption: 0.097, 
